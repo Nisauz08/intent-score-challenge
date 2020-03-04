@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="et_scorer" type="id" />
+    <item name="tv_winner" type="id" />
+    <item name="tv_list" type="id" />
+</resources>
